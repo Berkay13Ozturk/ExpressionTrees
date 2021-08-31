@@ -20,3 +20,6 @@ Allowed Expression(s):
 
 Prune Feature:
     /* The nested expressions can further be pruned into a single constant after calculating its value */
+
+Tree Creation:
+    /* A binary expression tree can either be created using a level-by-level approach or it can be defined once specifying the whole tree */
