@@ -3,9 +3,8 @@ A basic example to show my coding style, using an expression tree implementation
 Please refer to the code analysis file to see the code metrics and possible defect analysis. 
 
 Traversal Methods:
-    /* Breadth First Traversal Method(s) */
+    /* Breadth First and Depth Traversal Method(s) */
   - Level order
-    /* Depth First Traversal Method(s) */
   - Pre order
   - In order
   - Post order
