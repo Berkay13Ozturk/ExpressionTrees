@@ -17,3 +17,6 @@ Allowed Expression(s):
   - Division
   - Addition
   - Subtraction
+
+Prune Feature:
+    /* The nested expressions can further be pruned into a single constant after calculating its value */
